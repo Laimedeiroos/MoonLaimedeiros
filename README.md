@@ -12,7 +12,6 @@ Sou uma **Desenvolvedora Full Stack** e **Pentester** apaixonada por tecnologia 
 - **Linguagens de Programação:**  
   - Python 🐍
   - JavaScript 🌐
-  - Java ☕
   - HTML & CSS 🎨
 
 - **Frameworks e Ferramentas:**  
