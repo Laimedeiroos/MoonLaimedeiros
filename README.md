@@ -1,27 +1,28 @@
-# Bem-vinda ao meu GitHub! 👩‍💻✨
+# Welcome to My GitHub Profile! 👩‍💻✨
 
-## Sobre Mim
-
-Sou uma **Desenvolvedora Full Stack** e **Pentester** apaixonada por tecnologia e segurança digital. Com experiência em criar aplicações web robustas e seguras, estou sempre em busca de novos desafios e oportunidades para aprender e inovar.
-  
-🔍 Investigando e resolvendo problemas de segurança para proteger sistemas e dados.  
-☕ **Amante de Café e Código**: Entre uma xícara de café e uma linha de código, estou sempre em busca de novos conhecimentos.
-
-## Habilidades
-
-- **Linguagens de Programação:**  
-  - Python 🐍
-  - JavaScript 🌐
-  - HTML & CSS 🎨
-
-- **Frameworks e Ferramentas:**  
-  - **Front-End:** React ⚛️, Angular 🌟, Vue.js 🌿  
-  - **Back-End:** Node.js 🏗️, Django 🐍, Spring Boot ☕  
-  - **Segurança:** OWASP 🔒, Burp Suite 🛠️, Metasploit 🕵️‍♀️  
-
-- **Banco de Dados:**  
-  - MySQL 🗃️
-  - PostgreSQL 📊
-  - MongoDB 🍃
-
-**"Testando os limites para fortalecer defesas e transformando desafios em oportunidades."** 🚀🔐
+```typescript
+// Developer Profile
+export class Profile {
+  role: string = 'Full Stack Developer';
+  expertise: string[] = ['Pentester'];
+  interests: string[] = ['Coffee', 'Code'];
+}
+export class AboutMe {
+  bio: string = 'Passionate about technology and digital security.';
+  experience: string[] = [
+    'Creating robust and secure web applications',
+    'Exploring the digital world with precision',
+    'Transforming challenges into opportunities'
+  ];
+  favoriteThings: string[] = ['Coffee', 'Coding'];
+}
+// Skills and Tools
+export const skills = {
+  languages: ['Python 🐍', 'JavaScript 🌐', 'HTML & CSS 🎨'],
+  frameworks: {
+    frontEnd: ['React ⚛️', 'Angular 🌟', 'Vue.js 🌿'],
+    backEnd: ['Node.js 🏗️', 'Django 🐍'],
+  },
+  security: ['OWASP 🔒', 'Burp Suite 🛠️', 'Metasploit 🕵️‍♀️'],
+  databases: ['MySQL 🗃️', 'PostgreSQL 📊', 'MongoDB 🍃']
+};
