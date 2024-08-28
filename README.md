@@ -26,3 +26,5 @@ export const skills = {
   security: ['OWASP 🔒', 'Burp Suite 🛠️', 'Metasploit 🕵️‍♀️'],
   databases: ['MySQL 🗃️', 'PostgreSQL 📊', 'MongoDB 🍃']
 };
+
+"Exploring limits to strengthen defenses and turning challenges into opportunities." 🚀🔐
